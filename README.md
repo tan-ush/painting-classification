@@ -13,7 +13,7 @@ test.py ensures that pre.py and pred.py use the same model artifacts and  match 
 
 <img width="368" height="271" alt="image" src="https://github.com/user-attachments/assets/14ecb618-4a85-41a9-bdbb-adb6da3d5c0b" />
 
-<img width="368" height="271" alt="image" src="https://github.com/user-attachments/assets/c5cb8982-8699-400c-a2ad-4c31c5fe572d" />
+<img width="736" height="271" alt="image" src="https://github.com/user-attachments/assets/c5cb8982-8699-400c-a2ad-4c31c5fe572d" />
 
 
 
