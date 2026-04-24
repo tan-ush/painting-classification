@@ -9,11 +9,11 @@ Pred.py uses the JSON to develop a more sophisticated logistic regression model 
 
 test.py ensures that pre.py and pred.py use the same model artifacts and  match entirely on target predictions.
 
-<img width="368" height="271" alt="image" src="https://github.com/user-attachments/assets/70478786-0097-40ad-9d20-fabee443a6b6" />
+<img width="360" height="271" alt="image" src="https://github.com/user-attachments/assets/70478786-0097-40ad-9d20-fabee443a6b6" />
 
-<img width="368" height="271" alt="image" src="https://github.com/user-attachments/assets/14ecb618-4a85-41a9-bdbb-adb6da3d5c0b" />
+<img width="360" height="271" alt="image" src="https://github.com/user-attachments/assets/14ecb618-4a85-41a9-bdbb-adb6da3d5c0b" />
 
-<img width="736" height="271" alt="image" src="https://github.com/user-attachments/assets/c5cb8982-8699-400c-a2ad-4c31c5fe572d" />
+<img width="720" height="271" alt="image" src="https://github.com/user-attachments/assets/c5cb8982-8699-400c-a2ad-4c31c5fe572d" />
 
 
 
